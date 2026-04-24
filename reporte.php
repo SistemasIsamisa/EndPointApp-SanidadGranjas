@@ -83,6 +83,10 @@
           <option value="roedores">Control de roedores</option>
           <option value="aves">Necropsia aves</option>
           <option value="cerdos">Necropsia Cerdos</option>
+          <option value="vr_plincubacion">Cumplimiento Sanitario - Planta de Incubación</option>
+          <option value="vr_granjasaves">Cumplimiento Sanitario - Granjas de Aves</option>
+          <option value="vr_granjascerdos">Cumplimiento Sanitario - Granjas de Cerdos</option>
+          <option value="vr_faenamiento">Cumplimiento Sanitario - Planta de Faenamiento</option>
         </select>
       </div>
 
