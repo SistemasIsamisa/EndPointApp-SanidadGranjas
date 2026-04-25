@@ -155,7 +155,7 @@ date_default_timezone_set('America/Lima');
                             <th>Servicios higiénicos limpios y conservados</th>
                             <th>Capacitación del personal en BPM</th>
                             <th>Registro de ingreso/salida de productos avícolas</th>
-                            <th>Abastecimiento de agua: sanitización semanal y análisis 2 veces/año</th>
+                            <th>Sistema de agua adecuado: control sanitización semanal y análisis 2 veces/año</th>
                             <th>Manejo de desechos (BPM)</th>
                             <th>Desagües adecuados</th>
                             <th>Verificación de calidad de vacunación con registro</th>
@@ -214,7 +214,7 @@ date_default_timezone_set('America/Lima');
                             <th>No hay presencia de otras especies domésticas dentro de la granja</th>
                             <th>Control integral de plagas</th>
                             <th>Programa de limpieza y desinfección</th>
-                            <th>Abastecimiento de agua: sanitización semanal y análisis 2 veces/año</th>
+                            <th>Sistema de agua adecuado: control sanitización semanal y análisis 2 veces/año</th>
                             <th>Monitoreo serológico (MG, MS) y Salmonella 4 veces/año</th>
                             <th>Área de necropsia equipada</th>
                             <th>Procedimiento e infraestructura para manejo de aves muertas/desechos</th>
@@ -285,10 +285,10 @@ date_default_timezone_set('America/Lima');
                             <th>Control integral de plagas</th>
                             <th>Programa de limpieza y desinfección</th>
                             <th>Pediluvio u otro sistema de desinfección de calzado por área</th>
-                            <th>Sistema de agua adecuado: sanitización semanal y análisis 2 veces/año</th>
+                            <th>Sistema de agua adecuado: control sanitización semanal y análisis 2 veces/año</th>
                             <th>Monitoreo serológico al menos 2 veces/año</th>
                             <th>Área de necropsia equipada</th>
-                            <th>Infraestructura para eliminación de animales con bioseguridad</th>
+                            <th>Infraestructura para eliminación de animales cumple bioseguridad y no afecta napa freatica</th>
                             <th>Servicios higiénicos limpios y conservados</th>
                             <th>Capacitación al personal al menos cada 2 meses</th>
                             <th>Registro de ocurrencias sanitarias</th>
